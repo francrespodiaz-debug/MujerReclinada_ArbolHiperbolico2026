@@ -30,3 +30,6 @@ Este repositorio documenta la creación, análisis y autenticidad de la serie ar
 No se permite la reproducción total o parcial sin autorización expresa del autor.
 
 ---
+ **Contacto:** [francrespodiaz@gmail.com](mailto:francrespodiaz@gmail.com)
+
+
