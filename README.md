@@ -18,3 +18,15 @@ El análisis se realizó mediante:
 
 ## Estructura del repositorio
 📄 [Ver certificados fractales y de autenticidad (PDF único)](certificados/Certificados_Serie_MujerRecostada.pdf)
+---
+
+## Créditos y licencia artística
+
+**Obra:** Mujer Recostada — Proyecto Árbol Hiperbólico 2026  
+**Autoría:** Fran © 2026  
+**Técnica:** Xilografía y análisis fractal (Fiji/ImageJ, Box Counting)  
+**Derechos:** Todos los derechos reservados.  
+Este repositorio documenta la creación, análisis y autenticidad de la serie artística.  
+No se permite la reproducción total o parcial sin autorización expresa del autor.
+
+---
