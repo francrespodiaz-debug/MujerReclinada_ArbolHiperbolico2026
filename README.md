@@ -17,3 +17,4 @@ El análisis se realizó mediante:
 - Clasificación topológica y análisis de intensidad
 
 ## Estructura del repositorio
+📄 [Ver certificados fractales y de autenticidad (PDF único)](certificados/Certificados_Serie_MujerRecostada.pdf)
